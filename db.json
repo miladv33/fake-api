@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Musk" },
-    { "id": 2, "title": "New bing" },
-    { "id": 3, "title": "Bard" }
+    { "id": 1, "title": "make your life great again" },
+    { "id": 2, "title": "iranian women" },
+    { "id": 3, "title": "Dollarize" }
   ],
   "comments": [
     { "id": 1, "body": "that was very good", "postId": 1 },
     { "id": 2, "body": "nice", "postId": 1 }
   ],
   "profile": {
-    "name": "mr developer"
+    "name": "mr developer "
   }
 }
